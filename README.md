@@ -47,6 +47,7 @@ Results
 - Recall: 92%
 Contribution
 Feel free to open issues or submit pull requests for improvements.
-License
-This project is licensed under the MIT License.
+
+
+License :This project is licensed under the MIT License.
 
